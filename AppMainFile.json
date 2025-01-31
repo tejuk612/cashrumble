@@ -83,7 +83,9 @@
     
     "Minimum_CashAmount": "251",
     
-    "SpinCount": "3",
+    "SpinCount": "4",
+    
+    "VideoAdCount": "5",
     
     "TimerTime_MilliSecond": "600000",
     "TimerCoins": "50",
