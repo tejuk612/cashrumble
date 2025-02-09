@@ -87,7 +87,7 @@
     
     "VideoAdCount": "5",
     
-    "TimerTime_MilliSecond": "600000",
+    "TimerTime_MilliSecond": "15000",
     "TimerCoins": "50",
 
     "SignUp_BonousCoins": "500",
