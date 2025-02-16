@@ -18,7 +18,7 @@
       "OpenGames": "gamezop",
       "Block": "on",  
     
-      "AdsOnOff": "on",  
+      "AdsOnOff": "off",  
       "DialogBoxAds_OnOff" : "on",  
       "DialogBox_InterAds_OnOff" : "on",  
       "BannerAds_OnOff" : "on",  
@@ -84,23 +84,23 @@
     
     "Minimum_CashAmount": "251",
     
-    "SpinCount": "4",
+    "SpinCount": "5",
     
     "VideoAdCount": "5",
     
-    "TimerTime_MilliSecond": "60000",
+    "TimerTime_MilliSecond": "600000",
     "TimerCoins": "50",
 
-    "SignUp_BonousCoins": "500",
+    "SignUp_BonousCoins": "2500",
     
     "Share_Friends_PerDay": "3",
-    "ShareRewardCoins": "100",
+    "ShareRewardCoins": "60",
     
-    "ReferralRewardCoins": "1000",
+    "ReferralRewardCoins": "1500",
     
     "DailyCheck_in_X": "20",
     
-    "Watch30AdRewardCoins": "20",
+    "Watch30AdRewardCoins": "25",
     
     "GameRewardCoins": "not use",
     "QuizRewardCoins": "not use",
@@ -110,7 +110,7 @@
     "GameAccountID": "7549",
     
     "InActivity_Delay_miliSec": "15000",
-    "Total_Game_Time_Minute": "1",
+    "Total_Game_Time_Minute": "3",
     "Min_Reward": "50",
     "Max_Reward": "70",
     
