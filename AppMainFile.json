@@ -5,7 +5,7 @@
     
       "Google_or_Applovin": "google",
   
-      "AppVersion_Update" : "1.12",  
+      "AppVersion_Update" : "1.13",  
       "UpdateMsg": "Bugs Fix and many more things updated",
 
       "OnlyGames_OnOff": "off",  
@@ -18,7 +18,7 @@
       "OpenGames": "gamezop",
       "Block": "on",  
     
-      "AdsOnOff": "on",  
+      "AdsOnOff": "off",  
       "DialogBoxAds_OnOff" : "on",  
       "DialogBox_InterAds_OnOff" : "on",  
       "BannerAds_OnOff" : "on",  
