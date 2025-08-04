@@ -68,13 +68,13 @@
       "AppOpen_Id_Applovin": "fed32e2504cb26c7",
     
       "GamezopId": "https://7549.play.gamezop.com/en",
-      "QurekaID": "https://1080.game.qureka.com/",
+      "QurekaID": "https://10533.read.newszop.com/",
       "GamesKitesID": "https://cashrumble.freakxapps.com/?&lang=0",
-      "PredchmpId": "https://1080.game.predchamp.com/",
-      "AtmeId": "https://7563.play.quizzop.com/",
+      "PredchmpId": "https://10533.read.newszop.com/",
+      "AtmeId": "https://10533.read.newszop.com/",
       
       "ShowFirstDirect_OnOff": "off",
-      "ShowFirstLink": "https://u.theaddnews.com/zturtle/",
+      "ShowFirstLink": "https://10533.read.newszop.com/",
 
 
     
@@ -157,23 +157,23 @@
       [
         {
           "BannerURL": "https://static.gamezop.com/creatives/509f8e4f-936d-4e69-b242-06ef24e32570.png",
-          "BannerRedirectURL": "https://u.theaddnews.com/zturtle/"
+          "BannerRedirectURL": "https://10533.read.newszop.com/"
         },
         {
           "BannerURL": "https://static.gamezop.com/creatives/afc577b1-1e65-4c27-acc6-8471d695635d.png",
-          "BannerRedirectURL": "https://u.theaddnews.com/zturtle/"
+          "BannerRedirectURL": "https://10533.read.newszop.com/"
         },
         {
           "BannerURL": "https://static.gamezop.com/creatives/dcd86387-294b-4007-a54b-f37bffb0fe16.png",
-          "BannerRedirectURL": "https://u.theaddnews.com/zturtle/"
+          "BannerRedirectURL": "https://10533.read.newszop.com/"
         },
         {
           "BannerURL": "https://static.gamezop.com/creatives/6e0ffea0-71bc-4bc0-85ea-85ccdcc28ccb.png",
-          "BannerRedirectURL": "https://u.theaddnews.com/zturtle/"
+          "BannerRedirectURL": "https://10533.read.newszop.com/"
         },
         {
           "BannerURL":"https://static.gamezop.com/creatives/711d836b-677d-4b9d-8873-ffce7cda85eb.png",
-          "BannerRedirectURL": "https://u.theaddnews.com/zturtle/"
+          "BannerRedirectURL": "https://10533.read.newszop.com/"
         }
       ],
     
@@ -181,32 +181,32 @@
       [
         {
           "CircleLink": "https://static.gamezop.com/creatives/060d00fa-2638-4219-af1c-64bbd20339a1.png",
-          "CircleRedirectLink": "https://u.theaddnews.com/zturtle/"
+          "CircleRedirectLink": "https://10533.read.newszop.com/"
         },
         {
           "CircleLink": "https://static.gamezop.com/creatives/a0cb179d-6100-4972-b7d2-9540556c3d2a.png",
-          "CircleRedirectLink": "https://u.theaddnews.com/zturtle/"
+          "CircleRedirectLink": "https://10533.read.newszop.com/"
         },
         {
           "CircleLink": "https://static.gamezop.com/creatives/6de0aff2-cb59-41dc-9278-631975ab5b14.gif",
-          "CircleRedirectLink": "https://u.theaddnews.com/zturtle/"
+          "CircleRedirectLink": "https://10533.read.newszop.com/"
         },
         {
           "CircleLink": "https://static.gamezop.com/creatives/66f06c6e-8f83-4819-9fcc-e00ce5d75be6.gif",
-          "CircleRedirectLink": "https://u.theaddnews.com/zturtle/"
+          "CircleRedirectLink": "https://10533.read.newszop.com/"
         }
         ,
         {
           "CircleLink": "https://static.gamezop.com/creatives/d1d66077-c354-4fdc-b611-6e54a6bd0ee3.png",
-          "CircleRedirectLink": "https://u.theaddnews.com/zturtle/"
+          "CircleRedirectLink": "https://10533.read.newszop.com/"
         },
         {
           "CircleLink": "https://static.gamezop.com/creatives/f9f4d346-cd9f-46e1-a3ce-b10bb20f3d29.png",
-          "CircleRedirectLink": "https://u.theaddnews.com/zturtle/"
+          "CircleRedirectLink": "https://10533.read.newszop.com/"
         },
         {
           "CircleLink": "https://static.gamezop.com/creatives/dbd80ca5-7a76-4b35-90e8-d0cd5c94a636.png",
-          "CircleRedirectLink": "https://u.theaddnews.com/zturtle/"
+          "CircleRedirectLink": "https://10533.read.newszop.com/"
         }
       ]
   }
