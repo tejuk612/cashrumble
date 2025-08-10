@@ -132,8 +132,8 @@
     "CheckInUpdate": "CashRumble_Backend/CheckInUpdate.php",
     "RetriveCheckIn": "CashRumble_Backend/RetriveCheckIn.php",
     
-    "AddCoinsHistory": "CashRumble_Backend/AddCoinsHistory1.php",
-    "RetrieveCoinHistory": "CashRumble_Backend/RetrieveCoinHistory1.php",
+    "AddCoinsHistory": "CashRumble_Backend/addcoinshistory.php",
+    "RetrieveCoinHistory": "CashRumble_Backend/retrievecoinhistory.php",
     
     "ReferralValidation": "CashRumble_Backend/refer2.php",
     
