@@ -127,7 +127,7 @@
 
      "GamezopGames": "CashRumble_Backend/GamesKite.php",
     
-    "CoinsUpdate": "CashRumble_Backend/CoinsUpdate.php",
+    "CoinsUpdate": "CashRumble_Backend/CoinsUpdate1.php",
     
     "CheckInUpdate": "CashRumble_Backend/CheckInUpdate.php",
     "RetriveCheckIn": "CashRumble_Backend/RetriveCheckIn.php",
