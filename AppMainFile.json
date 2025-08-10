@@ -132,7 +132,7 @@
     "CheckInUpdate": "CashRumble_Backend/CheckInUpdate.php",
     "RetriveCheckIn": "CashRumble_Backend/RetriveCheckIn.php",
     
-    "AddCoinsHistory": "CashRumble_Backend/AddCoinsHistory.php",
+    "AddCoinsHistory": "CashRumble_Backend/AddCoinsHistory1.php",
     "RetrieveCoinHistory": "CashRumble_Backend/RetrieveCoinHistory1.php",
     
     "ReferralValidation": "CashRumble_Backend/refer2.php",
