@@ -118,7 +118,7 @@
     "BaseUrl_NotUseNow": "https://cashrumble-ink.stackstaging.com/",
     
     "SignUp": "CashRumble_Backend/signup2.php",
-    "Login": "CashRumble_Backend/Login.php",
+    "Login": "CashRumble_Backend/Login1.php",
     "ForgotPassword": "CashRumble_Backend/ForgotPassword.php",
     "UpdateProfile": "CashRumble_Backend/UpdateProfile.php",
     "WebVerification": "CashRumble_Backend/WebVerification.php",
@@ -133,7 +133,7 @@
     "RetriveCheckIn": "CashRumble_Backend/RetriveCheckIn.php",
     
     "AddCoinsHistory": "CashRumble_Backend/AddCoinsHistory.php",
-    "RetrieveCoinHistory": "CashRumble_Backend/RetrieveCoinHistory.php",
+    "RetrieveCoinHistory": "CashRumble_Backend/RetrieveCoinHistory1.php",
     
     "ReferralValidation": "CashRumble_Backend/refer2.php",
     
