@@ -118,7 +118,7 @@
     "BaseUrl_NotUseNow": "https://cashrumble-ink.stackstaging.com/",
     
     "SignUp": "CashRumble_Backend/signup2.php",
-    "Login": "CashRumble_Backend/Login_1.php",
+    "Login": "CashRumble_Backend/login1.php",
     "ForgotPassword": "CashRumble_Backend/ForgotPassword.php",
     "UpdateProfile": "CashRumble_Backend/UpdateProfile.php",
     "WebVerification": "CashRumble_Backend/WebVerification.php",
