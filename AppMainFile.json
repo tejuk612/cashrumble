@@ -117,41 +117,41 @@
     "BaseUrl": "https://cashrumble.uk/",
     "BaseUrl_NotUseNow": "https://cashrumble-ink.stackstaging.com/",
     
-    "SignUp": "CashRumble_Backend/signup2.php",
-    "Login": "CashRumble_Backend/login1.php",
-    "ForgotPassword": "CashRumble_Backend/ForgotPassword.php",
-    "UpdateProfile": "CashRumble_Backend/UpdateProfile.php",
-    "WebVerification": "CashRumble_Backend/WebVerification.php",
+    "SignUp": "backend_cashrumble/signup_2.php",
+    "Login": "backend_cashrumble/login1.php",
+    "ForgotPassword": "backend_cashrumble/Forgot_Password.php",
+    "UpdateProfile": "backend_cashrumble/Update_Profile.php",
+    "WebVerification": "backend_cashrumble/Web_Verification.php",
     
-    "Bonus": "CashRumble_Backend/Bonus.php",
+    "Bonus": "backend_cashrumble/Bonus.php",
 
-     "GamezopGames": "CashRumble_Backend/GamesKite.php",
+     "GamezopGames": "backend_cashrumble/Games_Kite.php",
     
-    "CoinsUpdate": "CashRumble_Backend/CoinsUpdate1.php",
+    "CoinsUpdate": "backend_cashrumble/Coins_Update.php",
     
-    "CheckInUpdate": "CashRumble_Backend/CheckInUpdate.php",
-    "RetriveCheckIn": "CashRumble_Backend/RetriveCheckIn.php",
+    "CheckInUpdate": "backend_cashrumble/Check_In_Update.php",
+    "RetriveCheckIn": "backend_cashrumble/Retrive_CheckIn.php",
     
-    "AddCoinsHistory": "CashRumble_Backend/AddCoinsHistory.php",
-    "RetrieveCoinHistory": "CashRumble_Backend/RetrieveCoinHistory.php",
+    "AddCoinsHistory": "backend_cashrumble/Add_Coins_History.php",
+    "RetrieveCoinHistory": "backend_cashrumble/Retrieve_Coin_History.php",
     
-    "ReferralValidation": "CashRumble_Backend/refer2.php",
+    "ReferralValidation": "backend_cashrumble/refer_2.php",
     
-    "Ranking": "CashRumble_Backend/Ranking.php",
+    "Ranking": "backend_cashrumble/Ranking.php",
     
-    "ProfilePicRetrive": "CashRumble_Backend/PicRetrieve.php",
-    "PicUpdate": "CashRumble_Backend/PicUpdate.php",
+    "ProfilePicRetrive": "backend_cashrumble/Pic_Retrieve.php",
+    "PicUpdate": "backend_cashrumble/Pic_Update.php",
     
-    "GiftVoucher": "CashRumble_Backend/GiftVoucher.php",
-    "GiftVoucher_Payout": "CashRumble_Backend/GiftVoucher_Payout.php",
+    "GiftVoucher": "backend_cashrumble/Gift_Voucher.php",
+    "GiftVoucher_Payout": "backend_cashrumble/Gift_Voucher_Payout.php",
       
-    "UserReferralList": "CashRumble_Backend/UserReferralList.php",
+    "UserReferralList": "backend_cashrumble/User_Referral_List.php",
     
-    "Links": "CashRumble_Backend/Links.php",
+    "Links": "backend_cashrumble/Links.php",
     
-    "RetriveRedeemHistory": "CashRumble_Backend/RetriveRedeemHistory.php",
+    "RetriveRedeemHistory": "backend_cashrumble/Retrive_Redeem_History.php",
     
-    "CheckVerification": "CashRumble_Backend/CheckVerification.php",
+    "CheckVerification": "backend_cashrumble/Check_Verification.php",
       
       "AppBanner": 
       [
